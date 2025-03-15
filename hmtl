@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zimbabwe Organization for Scientific Research</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #2c3e50;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Zimbabwe Organization for Scientific Research</h1>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#mission">Our Mission</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+</header>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>The Zimbabwe Organization for Scientific Research is dedicated to promoting scientific inquiry and innovation within Zimbabwe. We aim to collaborate with local and international partners to enhance research capabilities and foster a culture of scientific exploration.</p>
+</section>
+
+<section id="mission">
+    <h2>Our Mission</h2>
+    <p>Our mission is to support scientific research and innovation that addresses the unique challenges facing Zimbabwe. We strive to empower researchers and institutions to work together towards sustainable solutions for our communities.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>If you have any questions or would like to collaborate with us, please reach out via email:</p>
+    <p>Email: <a href="mailto:info@zimsci.org">info@zimsci.org</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Zimbabwe Organization for Scientific Research</p>
+</footer>
+
+</body>
+</html>
